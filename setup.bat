@@ -1,0 +1,1 @@
+python ./py_scripts/build_project.py
